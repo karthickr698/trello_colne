@@ -1,5 +1,3 @@
-The demo is available in https://vehicle-renting-app.netlify.app/#/
-
 The app can be run locally by doing following steps.
 
 git clone the project
